@@ -99,5 +99,5 @@ python resilient_supply_chain.py
 ### *Author*
 
 **Rudra Ray**
-*Production Engineering Undergrad & Data Enthusiast*
 *Jadavpur University*
+
